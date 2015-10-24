@@ -1,0 +1,64 @@
+body {
+  font-family: "Arial";
+  text-align: center;
+  background: black;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-shadow: 1px 1px #D2D2D2;
+  background: linear-gradient(#303030, #676767);
+  border-radius: 10px;
+  border: none;
+  border-bottom: 3px solid #1F1F1F;
+
+}
+
+h1 {
+  font-family: "Cinzel Decorative";
+  font-weight: 900;
+  font-size: 4em;
+  padding: 60px;
+  background: rgba(0,0,0, 0.5);
+  color: white;
+
+}
+
+.container {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  rem: 1.4em;
+  padding: 0;
+  margin: 0;
+}
+
+.text-shadow {
+  text-shadow: 6px 2px 10px #000;
+
+}
+
+.header {
+  background-image: url(http://f.tqn.com/y/columbusoh/1/T/D/4/-/-/columbus.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+.random-quotes {
+  width: auto;
+  font-size: 1.8em;
+  margin: 2% 30% 0 30%;
+  padding: 20px;
+  color: white;
+}
+
+.author {
+  text-align: right;
+
+}
